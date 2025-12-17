@@ -507,7 +507,12 @@
     github = "Rosuavio";
     githubId = 7164552;
   };
-
+  rrvsh = {
+    name = "Mohammad Rafiq";
+    email = "rafiq@rrv.sh";
+    github = "rrvsh";
+    githubId = 20300874;
+  };
   rszamszur = {
     name = "Radosław Szamszur";
     email = "radoslawszamszur@gmail.com";
