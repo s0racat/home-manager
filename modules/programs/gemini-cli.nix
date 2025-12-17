@@ -11,7 +11,7 @@ let
   tomlFormat = pkgs.formats.toml { };
 in
 {
-  meta.maintainers = [ lib.maintainers.rrvsh ];
+  meta.maintainers = [ lib.hm.maintainers.rrvsh ];
 
   options.programs.gemini-cli = {
     enable = lib.mkEnableOption "gemini-cli";
